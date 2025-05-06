@@ -1,7 +1,7 @@
 import random
 import string
 
-def generate_password(length=12):# ამ ფუნქციას გადაეცემა პარამეტრი length რომელიც არის სიმბოლოების რაოდენობას
+def generate_password(length=12):
     """
     This function generates a random password of specified length.
     :param length: Length of the password to be generated.
